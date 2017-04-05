@@ -16,7 +16,7 @@ redirect_from: '/goals/195'
 
 ## Specifications
 
-- [ ] Artifact produced is a gist of links to the various mini-projects.
+- [X] Artifact produced is a gist of links to the various mini-projects.
 - [ ] Artifact includes links to all mini-project outputs:
 - [ ] List of good Meetups and/or workshops with links and any thoughts/reflections after attending.
 - [ ] List of interesting people to follow with links to their social media profile(s).
