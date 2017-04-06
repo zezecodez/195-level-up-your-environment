@@ -22,8 +22,8 @@ redirect_from: '/goals/195'
 - [ ] List of interesting people to follow with links to their social media profile(s).
 - [ ] List of relevant and useful conferences and any thoughts/reflections after attending.
 - [ ] Pull request on an open-source project.
-- [ ] Dotfiles repo.
-- [ ] `Brewfile` with favorite Homebrew packages.
+- [X] Dotfiles repo.
+- [X] `Brewfile` with favorite Homebrew packages.
 - [ ] List of your favorite plugins for your editor of choice.
 - [X] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
