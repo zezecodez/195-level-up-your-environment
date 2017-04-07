@@ -17,14 +17,14 @@ redirect_from: '/goals/195'
 ## Specifications
 
 - [X] Artifact produced is a gist of links to the various mini-projects.
-- [ ] Artifact includes links to all mini-project outputs:
-- [ ] List of good Meetups and/or workshops with links and any thoughts/reflections after attending.
-- [ ] List of interesting people to follow with links to their social media profile(s).
-- [ ] List of relevant and useful conferences and any thoughts/reflections after attending.
+- [X] Artifact includes links to all mini-project outputs:
+- [X] List of good Meetups and/or workshops with links and any thoughts/reflections after attending.
+- [X] List of interesting people to follow with links to their social media profile(s).
+- [X] List of relevant and useful conferences and any thoughts/reflections after attending.
 - [ ] Pull request on an open-source project.
 - [X] Dotfiles repo.
 - [X] `Brewfile` with favorite Homebrew packages.
-- [ ] List of your favorite plugins for your editor of choice.
+- [X] List of your favorite plugins for your editor of choice.
 - [X] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 ### Stretch
